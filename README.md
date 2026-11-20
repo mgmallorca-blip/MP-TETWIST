@@ -1,3 +1,4 @@
+🧩 TETWIST Build 1.1 🎮
 ✨ UI • Scoring • Modifiers • Persistence • Logo Polish
 
 TETWIST Build 1.1 is a major polish and feature update focused on improving the game's identity, progression feedback, and overall UI experience.
